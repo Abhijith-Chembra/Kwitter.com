@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding-top: 200px;
+    text-align: center;
+    background: linear-gradient(#428df5 0%, #dad5d5 100%);
+}
+
+h1
+{
+	width: 1000px;
+	color: rgb(0, 0, 0);
+	display: inline-block;
+    font-size: 100px;
+    font-family: 'Verdana';
+}
+
+h2
+{
+	padding-top: 100px;
+    padding-bottom: 20px;
+	color: rgb(0, 0, 0);
+	font-family: 'Verdana';
+    font-weight:lighter;
+}
+
+#login_button
+{
+    margin-top: 50px;
+    font-size: 35px ;
+    border-radius: 20px ;
+}
+
+#user_name
+{
+     font-size: 25px ;
+     border-radius: 10px ;
+}
+#logout
+{
+    margin-right: 1500px;
+    font-size: 20px;
+    color:white;
+    background-color: crimson;
+    
+}
+#room_name
+{
+    font-size: 25px ;
+    border-radius: 10px ;
+}
